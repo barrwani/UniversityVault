@@ -58,6 +58,6 @@ Basically keeps the function within the current stack frame instead of generatin
 
 A template class that provides atomic operations on variables. Used for [[Concurrency & Multithreading]]. 
 
-An atomic operation is an operation that is completed without interference from other threads. This is crucial to avoiding race conditions. More on [[Concurrency]]. 
+An atomic operation is an operation that is completed without interference from other threads. This is crucial to avoiding race conditions. More on  [[. 
 
 Operations on atomic types are performed as a single, indivisible step, ensuring data consistency across different threads. 

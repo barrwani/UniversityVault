@@ -1,7 +1,5 @@
-	#cs 
-
 # Hash Tables
-
+#cs 
 ## Hashing
 
 Hashing involves converting a range of key values into a range of indexes of an array. 

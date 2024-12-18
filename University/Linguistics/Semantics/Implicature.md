@@ -40,3 +40,8 @@ Witness: "I left at 1PM yesterday."
 5. Therefore the implicature is intended.
 
 
+An implicature is an inference that arises from what is said by assuming that the participants are making their best effort to be cooperative. 
+
+A single utterance can give rise to different implicatures depending on what you assume about what the intentions and the state of knowledge of the discourse participants.
+
+Implicatures can be cancelled: A might implicate B but B can be cancelled by asserting A along with a denial of B. If B is an implicature this will not result in a contradiction. 

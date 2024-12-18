@@ -1,4 +1,5 @@
-# UE5
+# C++
+#gamedev #cs
 
 ## C++ and BP
 
@@ -11,6 +12,7 @@
 - It’s very common to build a C++ base class and a BP subclass together that form a single logical unit, especially with actor classes. 
 - C++ is great at core architecture, performance, and being source controlled
 - BP is great at asset references, visuals, ease of programming for non-technical people, and fast iteration.
+
 ## Build files
 
 - Build files are in `Build.cs` and `Target.cs`
@@ -79,5 +81,5 @@ Casting is done using `Cast<T>` for `UObjects`, with `CastChecked<T>` behaving l
 
 
 
-### Class Default Objects
+
 

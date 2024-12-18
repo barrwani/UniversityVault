@@ -81,5 +81,5 @@ Determinant Rules:
 - For matrix $A: AA^{-1} = I$
 - $(AB)^{-1} = B^{-1}A^{-1}$
 
-Just review lin alg notes bro
+
 

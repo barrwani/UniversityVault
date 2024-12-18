@@ -12,6 +12,10 @@ Natural Language: complex, two-way communication used in daily life by humans
 	- What pronouns refer to
 - Syntactic Ambiguity
 	- Structural Difference
+- Focus Location Ambiguity
+	- Where focus is placed in sentence
+- Quantifier Scope Ambiguity
+	- How quantifiers (some, all, every) interact within a sentence
 
 ### Communication
 
