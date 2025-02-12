@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Linguistics/Semantics/Intensionality and Adjectives.md",
+                "file": "University/CS/C++/Concurrency & Multithreading.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intensionality and Adjectives"
+              "title": "Concurrency & Multithreading"
             }
           }
         ]
@@ -179,9 +179,25 @@
   },
   "active": "8ee20909ed6ba6c9",
   "lastOpenFiles": [
+    "University/CS/OS/Context-Switching, User-level Threading.md",
+    "University/CS/OS/IO.md",
+    "University/CS/OS/Security.md",
+    "University/CS/OS/Putting It All Together.md",
+    "University/CS/OS/Disks.md",
+    "University/CS/OS/File Systems.md",
+    "University/Linguistics/Advanced Semantics/Polysemy, Sense Relations.md",
+    "University/Linguistics/Advanced Semantics/Introduction.md",
+    "University/Linguistics/First Language Acquisition/Language.md",
+    "University/CS/AIT/JavaScript.md",
+    "Job/Corelink/Networking Concepts.md",
+    "University/Linguistics/First Language Acquisition",
+    "University/Linguistics/Advanced Semantics",
+    "University/CS/AIT",
+    "University/CS/Untitled.md",
+    "Job/Corelink/writeup.md",
+    "University/Linguistics/Semantics/Intensionality and Adjectives.md",
     "University/Linguistics/Semantics/Presupposition.md",
     "University/Linguistics/Semantics/Modality.md",
-    "University/Linguistics/Semantics/Intensionality and Adjectives.md",
     "University/Linguistics/Semantics/Scope.md",
     "University/Linguistics/Semantics/Implicature.md",
     "University/Linguistics/Semantics/Focus.md",
@@ -190,21 +206,9 @@
     "University/PastedImages/Pasted image 20241217201255.png",
     "University/Linguistics/Semantics/Tense and Aspect.md",
     "University/CS/C++/Basics of C++.md",
-    "University/CS/OS/Putting It All Together.md",
-    "University/CS/OS/Security.md",
-    "University/CS/OS/Disks.md",
-    "University/CS/OS/Context-Switching, User-level Threading.md",
-    "University/CS/OS/File Systems.md",
     "University/CS/C++/Useful Concepts.md",
     "University/CS/C++/Concurrency & Multithreading.md",
     "University/Linguistics/Semantics/Negative Polarity.md",
-    "University/CS/Computer Graphics/Curves and Surfaces.md",
-    "University/CS/Computer Graphics/Collision Detection.md",
-    "University/CS/Computer Graphics/Graphics Pipeline.md",
-    "University/CS/Computer Graphics/CG in Games.md",
-    "University/CS/Computer Graphics/Animation.md",
-    "University/CS/Computer Graphics/Cloth and Hair Simulations.md",
-    "University/CS/Computer Graphics/Transformations.md",
     "University/PastedImages/Pasted image 20241216222728.png",
     "University/PastedImages/Pasted image 20241216220407.png",
     "University/PastedImages/Pasted image 20241216212745.png",
