@@ -1,5 +1,5 @@
 # Animations
-#gamdev
+#gamedev
 
 
 ### Creating an Animation Blueprint
