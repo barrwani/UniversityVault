@@ -1,6 +1,6 @@
-# Corelink UE5 Character Movement Component 
+# Corelink UE5 CMC Integration
 
-
+#gamedev #cs 
 ### **Corelink Integration Overview**
 Corelink is a high-performance networking library designed for real-time data exchange. To integrate it into Unreal Engine for seamless use within game projects, we need to:
 1. Replace Unreal’s default netcode with Corelink for specific functionalities (e.g., character movement).

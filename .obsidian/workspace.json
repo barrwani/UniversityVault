@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4cbc616289697843",
+        "id": "087e8648dc568dc4",
         "type": "tabs",
         "children": [
           {
-            "id": "87e88232413ad266",
+            "id": "773d0d565c276639",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Job/Corelink/Corelink UE5 Netcode Replication.md",
+                "file": "University/CS/NLP/HMM, PoS Tagging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Corelink UE5 Netcode Replication"
+              "title": "HMM, PoS Tagging"
             }
           }
         ]
@@ -159,55 +159,72 @@
               "icon": "lucide-list",
               "title": "Outline of Graphics Pipeline"
             }
+          },
+          {
+            "id": "7c5a7dc28a5cc415",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "command-palette:Open command palette": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "bases:Create new base": false
     }
   },
-  "active": "87e88232413ad266",
+  "active": "773d0d565c276639",
   "lastOpenFiles": [
-    "Job/Corelink/Corelink UE5 Character Movement Component.md",
-    "Job/Corelink/Corelink UE5 Netcode Replication.md",
-    "Job/Corelink/writeup.md",
-    "Nahar/Unreal Engine/Game Programming Patterns.md",
-    "Nahar/Unreal Engine/Animations.md",
-    "Nahar/Unreal Engine/C++.md",
-    "Job/HPC/Relocatable Builds w Spack.md",
-    "University/Linguistics/Advanced Semantics/Denominal Verbs.md",
-    "University/Linguistics/Advanced Semantics/Introduction.md",
-    "University/Linguistics/Advanced Semantics/Polysemy, Sense Relations.md",
-    "University/CS/AIT/JavaScript Basics.md",
-    "University/CS/AIT/HTTP.md",
-    "Job/HPC/Reframe.md",
+    "University/CS/NLP/Formal Language, Regex, Automata Transducers.md",
+    "University/CS/NLP/HMM, PoS Tagging.md",
+    "University/CS/NLP/Introduction.md",
+    "University/CS/Basic Algorithms/Sorting Algorithms.md",
+    "University/Math/Linear Algebra/L. Combinations, L. Independence.md",
+    "University/Math/Linear Algebra/Vector Space.md",
+    "University/Math/Linear Algebra/UT, Diagonal Matrices.md",
+    "University/Math/Linear Algebra/Stuff covered in highschool.md",
+    "University/Math/Linear Algebra/Self-Adjoint, Normal Operators.md",
+    "University/Math/Linear Algebra/Polynomials, Invariant Subspaces.md",
+    "University/Math/Linear Algebra/Characteristic Polynomials.md",
+    "University/Math/Linear Algebra/Determinants.md",
+    "University/Math/Linear Algebra/Dimension, Basis.md",
+    "University/Math/Linear Algebra/Duality.md",
+    "University/Math/Linear Algebra/Inner Products.md",
+    "University/Math/Linear Algebra/Invertibility, Isomorphisms.md",
+    "University/Math/Linear Algebra/Isometries, Unitary Operators.md",
+    "University/Math/Linear Algebra/Linear Maps, Range, Null Space.md",
+    "University/Math/Linear Algebra/Linear Systems.md",
+    "University/Math/Discrete Math/Subgraphs & Connections.md",
+    "University/Math/Linear Algebra/Spectral Theorem, Positive Operators.md",
+    "University/Math/Linear Algebra/Singular Value Decomposition.md",
+    "University/Math/Linear Algebra/Orthonormality.md",
+    "University/Math/Linear Algebra/Matrices.md",
+    "Gamedev/Unreal Engine/Game Programming Patterns.md",
+    "University/Math/Discrete Math/Pigeonhole Principle & Comparing Infinite Sets.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "University/CS/CS.base",
+    "University/CS/Basic Algorithms",
+    "University.base",
+    "University/CS/NLP",
     "University/PastedImages/Pasted image 20250228020742.png",
     "University/PastedImages/Pasted image 20250228020732.png",
-    "University/Linguistics/Semantics/Implicature.md",
-    "University/Linguistics/Semantics/Intensionality and Adjectives.md",
-    "University/Linguistics/Semantics/Meaning & Entailment.md",
-    "University/Linguistics/Semantics/Tense and Aspect.md",
-    "University/Linguistics/Semantics/Scope.md",
-    "University/Linguistics/Semantics/Review.md",
-    "University/Linguistics/Semantics/Negative Polarity.md",
-    "University/Linguistics/Semantics/Presupposition.md",
-    "University/Linguistics/Semantics/Quantifier Raising.md",
-    "University/Linguistics/Semantics/Focus.md",
-    "University/Linguistics/Semantics/Ambiguity.md",
-    "University/Linguistics/First Language Acquisition/Language Acquisition Process.md",
-    "University/Linguistics/First Language Acquisition/Language.md",
     "University/Linguistics/First Language Acquisition",
     "University/Linguistics/Advanced Semantics",
     "University/CS/AIT",
@@ -219,7 +236,6 @@
     "University/PastedImages/Pasted image 20241216164546.png",
     "University/PastedImages/Pasted image 20241215194816.png",
     "University/PastedImages/Pasted image 20241215175920.png",
-    "Nahar/Unreal Engine",
-    "Nahar"
+    "Gamedev/Unreal Engine"
   ]
 }

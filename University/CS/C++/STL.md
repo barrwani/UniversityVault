@@ -49,7 +49,7 @@ STL includes a set of generic algorithms which perform common tasks, including s
 Accessed through `#include <algorithm>`
 
 
-### [[Sorting Algorithms]] 
+### [[University/CS/Data Structures and Algorithms/Sorting Algorithms]] 
 
 `sort` and `stable_sort`
 
