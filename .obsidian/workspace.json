@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/CS/NLP/Untitled.md",
+                "file": "University/CS/Basic Algorithms/Dynamic Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Dynamic Programming"
             }
           }
         ]
@@ -180,8 +180,8 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "templates:Insert template": false,
+      "graph:Open graph view": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "command-palette:Open command palette": false,
       "canvas:Create new canvas": false,
@@ -191,32 +191,34 @@
   },
   "active": "773d0d565c276639",
   "lastOpenFiles": [
-    "University/CS/NLP/HMM, PoS Tagging.md",
+    "University/CS/Basic Algorithms/Counting + Radix Sort.md",
+    "University/CS/Basic Algorithms/Karatsuba.md",
+    "University/CS/Basic Algorithms/Closest Pair of Points.md",
+    "University/CS/Basic Algorithms/DP - Longest Common Subsequence.md",
+    "University/CS/Basic Algorithms/Dynamic Programming.md",
+    "Pasted image 20251020164903.png",
+    "Pasted image 20251020164009.png",
+    "University/CS/Basic Algorithms/DP - Knapsack + Interval Scheduling.md",
+    "University/CS/Basic Algorithms/DP - Greedy Approach.md",
+    "University/CS/Basic Algorithms/Lower Bounds on Sorting.md",
+    "University/CS/Basic Algorithms/Sorting Algorithms.md",
+    "University/CS/Basic Algorithms/Merge + Quick Sort.md",
+    "University/CS/Basic Algorithms/Median and Selection.md",
+    "Pasted image 20251020152457.png",
+    "University/Math/Linear Algebra/Invertibility, Isomorphisms.md",
+    "University/CS/Computer Graphics/Graphics Pipeline.md",
+    "University/CS/Computer Graphics/Cheat Sheet.md",
+    "University/CS/Computer Graphics/Viewing.md",
+    "University/CS/Computer Graphics/Mesh Deformation and Data Structures.md",
+    "University/CS/Computer Graphics/Physical Based Animation.md",
+    "University/CS/Computer Graphics/Radiometry and Color.md",
+    "University/CS/Computer Graphics/Raytracing.md",
     "University/CS/NLP/Untitled.md",
+    "University/CS/NLP/HMM, PoS Tagging.md",
     "University/CS/NLP/Formal Language, Regex, Automata Transducers.md",
     "University/CS/NLP/Introduction.md",
-    "University/CS/Basic Algorithms/Sorting Algorithms.md",
     "University/Math/Linear Algebra/L. Combinations, L. Independence.md",
     "University/Math/Linear Algebra/Vector Space.md",
-    "University/Math/Linear Algebra/UT, Diagonal Matrices.md",
-    "University/Math/Linear Algebra/Stuff covered in highschool.md",
-    "University/Math/Linear Algebra/Self-Adjoint, Normal Operators.md",
-    "University/Math/Linear Algebra/Polynomials, Invariant Subspaces.md",
-    "University/Math/Linear Algebra/Characteristic Polynomials.md",
-    "University/Math/Linear Algebra/Determinants.md",
-    "University/Math/Linear Algebra/Dimension, Basis.md",
-    "University/Math/Linear Algebra/Duality.md",
-    "University/Math/Linear Algebra/Inner Products.md",
-    "University/Math/Linear Algebra/Invertibility, Isomorphisms.md",
-    "University/Math/Linear Algebra/Isometries, Unitary Operators.md",
-    "University/Math/Linear Algebra/Linear Maps, Range, Null Space.md",
-    "University/Math/Linear Algebra/Linear Systems.md",
-    "University/Math/Discrete Math/Subgraphs & Connections.md",
-    "University/Math/Linear Algebra/Spectral Theorem, Positive Operators.md",
-    "University/Math/Linear Algebra/Singular Value Decomposition.md",
-    "University/Math/Linear Algebra/Orthonormality.md",
-    "University/Math/Linear Algebra/Matrices.md",
-    "Gamedev/Unreal Engine/Game Programming Patterns.md",
     "Untitled.base",
     "Untitled 1.base",
     "University/CS/CS.base",
@@ -233,9 +235,6 @@
     "University/PastedImages/Pasted image 20241216220407.png",
     "University/PastedImages/Pasted image 20241216212745.png",
     "University/PastedImages/Pasted image 20241216170422.png",
-    "University/PastedImages/Pasted image 20241216164546.png",
-    "University/PastedImages/Pasted image 20241215194816.png",
-    "University/PastedImages/Pasted image 20241215175920.png",
     "Gamedev/Unreal Engine"
   ]
 }
