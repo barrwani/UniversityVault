@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/CS/Basic Algorithms/Dynamic Programming.md",
+                "file": "University/CS/Basic Algorithms/DP - Longest Common Subsequence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dynamic Programming"
+              "title": "DP - Longest Common Subsequence"
             }
           }
         ]
@@ -191,15 +191,17 @@
   },
   "active": "773d0d565c276639",
   "lastOpenFiles": [
-    "University/CS/Basic Algorithms/Counting + Radix Sort.md",
-    "University/CS/Basic Algorithms/Karatsuba.md",
-    "University/CS/Basic Algorithms/Closest Pair of Points.md",
+    "University/CS/Basic Algorithms/DP - Greedy Approach.md",
+    "University/CS/Basic Algorithms/DP - Knapsack + Interval Scheduling.md",
+    "Pasted image 20251020224203.png",
     "University/CS/Basic Algorithms/DP - Longest Common Subsequence.md",
     "University/CS/Basic Algorithms/Dynamic Programming.md",
+    "Pasted image 20251020200923.png",
+    "University/CS/Basic Algorithms/Counting + Radix Sort.md",
+    "University/CS/Basic Algorithms/Closest Pair of Points.md",
+    "University/CS/Basic Algorithms/Karatsuba.md",
     "Pasted image 20251020164903.png",
     "Pasted image 20251020164009.png",
-    "University/CS/Basic Algorithms/DP - Knapsack + Interval Scheduling.md",
-    "University/CS/Basic Algorithms/DP - Greedy Approach.md",
     "University/CS/Basic Algorithms/Lower Bounds on Sorting.md",
     "University/CS/Basic Algorithms/Sorting Algorithms.md",
     "University/CS/Basic Algorithms/Merge + Quick Sort.md",
@@ -233,8 +235,6 @@
     "University/PastedImages/Pasted image 20241217201255.png",
     "University/PastedImages/Pasted image 20241216222728.png",
     "University/PastedImages/Pasted image 20241216220407.png",
-    "University/PastedImages/Pasted image 20241216212745.png",
-    "University/PastedImages/Pasted image 20241216170422.png",
     "Gamedev/Unreal Engine"
   ]
 }
