@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/CS/Basic Algorithms/DP - Longest Common Subsequence.md",
+                "file": "University/CS/Basic Algorithms/DP - Knapsack + Interval Scheduling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DP - Longest Common Subsequence"
+              "title": "DP - Knapsack + Interval Scheduling"
             }
           }
         ]
@@ -191,15 +191,17 @@
   },
   "active": "773d0d565c276639",
   "lastOpenFiles": [
-    "University/CS/Basic Algorithms/DP - Greedy Approach.md",
-    "University/CS/Basic Algorithms/DP - Knapsack + Interval Scheduling.md",
-    "Pasted image 20251020224203.png",
-    "University/CS/Basic Algorithms/DP - Longest Common Subsequence.md",
     "University/CS/Basic Algorithms/Dynamic Programming.md",
+    "University/CS/Basic Algorithms/DP - Knapsack + Interval Scheduling.md",
+    "University/CS/Basic Algorithms/DP - Greedy Approach.md",
+    "University/CS/Basic Algorithms/DP - Longest Common Subsequence.md",
+    "University/CS/Basic Algorithms/Karatsuba.md",
+    "University/CS/NLP/HMM, PoS Tagging.md",
+    "University/CS/NLP/Introduction.md",
+    "Pasted image 20251020224203.png",
     "Pasted image 20251020200923.png",
     "University/CS/Basic Algorithms/Counting + Radix Sort.md",
     "University/CS/Basic Algorithms/Closest Pair of Points.md",
-    "University/CS/Basic Algorithms/Karatsuba.md",
     "Pasted image 20251020164903.png",
     "Pasted image 20251020164009.png",
     "University/CS/Basic Algorithms/Lower Bounds on Sorting.md",
@@ -216,9 +218,7 @@
     "University/CS/Computer Graphics/Radiometry and Color.md",
     "University/CS/Computer Graphics/Raytracing.md",
     "University/CS/NLP/Untitled.md",
-    "University/CS/NLP/HMM, PoS Tagging.md",
     "University/CS/NLP/Formal Language, Regex, Automata Transducers.md",
-    "University/CS/NLP/Introduction.md",
     "University/Math/Linear Algebra/L. Combinations, L. Independence.md",
     "University/Math/Linear Algebra/Vector Space.md",
     "Untitled.base",

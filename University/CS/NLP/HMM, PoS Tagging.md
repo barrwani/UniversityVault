@@ -14,6 +14,7 @@ POS tagsets assume particular tokenizations, e.g., Mary's → Mary + 's. They di
 Annotators and POS taggers assign tags to each token in a sentence, no exceptions.
 
 ## The Penn Treebank II POS tagset
+
 Verbs: VB, VBP, VBZ, VBD, VBG, VBN (base, present-non-3rd, present-3rd, past, -ing, -en)
 
 Nouns: NNP, NNPS, NN, NNS (proper/common, singular/plural; singular includes mass + generic)
@@ -24,7 +25,7 @@ Adverbs: RB, RBR, RBS, RP (base, comparative, superlative, particle)
 
 Pronouns: PRP, PRP$ (personal, possessive)
 
-Interrogatives: WP, WP$, WDT, WRB (compare to: PRP, PRP$, DT, RB)
+Interrogatives: WP, WP, WDT, WRB (compare to: PRP, PRP, DT, RB)
 
 Other Closed Class: CC, CD, DT, PDT, IN, MD
 
@@ -62,6 +63,7 @@ Most POS taggers assume sentence boundaries are given. Multiple sentences within
 Sentence Splitting is a potentially good Final Project Topic.
 
 ## Rule-based POS Tagger
+
 Method: Assign lists of potential POS tags to each word based on dictionary. Manual rules for Out of Vocabulary (OOV) words: Ex: Non-initial capital → NNP, ends in S → VBZ|NNS, default → NN|JJ; etc. Apply hand-written constraints until each word has only one possible POS.
 
 Sample Constraints:
